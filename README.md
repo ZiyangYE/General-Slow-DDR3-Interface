@@ -29,7 +29,7 @@ Designed to run at 100MHz with a 128Mx16b DDR3 chip.
 Testbench file.  
 A DDR3 model is required to do the simulation.  
 You may find it at Micron's website.  
-<u>[DDR3 Model](https://media-www.micron.com/-/media/client/global/documents/products/sim-model/dram/ddr3/ddr3-sdram-verilog-model.zip?rev=925a8a05204e4b5c9c1364302de60126)</u>
+<u>[DDR3 Model](https://www.micron.com/search-results/simulation-models?searchRequest=verilog)</u>
 
 ## Timing
 __The burst feature is not implemented yet, so multi read/write will not be faster than single.__  
